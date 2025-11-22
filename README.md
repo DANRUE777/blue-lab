@@ -22,8 +22,9 @@ Purpose: Private host-only SOC lab for learning SIEM, logging, and detection.
 - Confirm ping between VMs once created.
 
 ## Screenshots
-- VirtualBox Network Adapter (Host-only)
-  "C:\Users\danie\OneDrive\Documents\GitHub\blue-lab\screenshots\2025-11-21_22h30_03.png"- Ubuntu Server static IP + ping tests
-  
-- Windows VM static IP + ping tests
-  "C:\Users\danie\OneDrive\Documents\GitHub\blue-lab\screenshots\2025-11-21_22h30_23.png"- Kali VM static IP + ping tests
+
+- VirtualBox Network Adapter (Host-only)  
+  ![VirtualBox host-only adapter](screenshots/2025-11-21_22h30_23.png)
+
+- Windows VM static IP + ping tests  
+  ![Windows VM ping results](screenshots/2025-11-21_22h30_03.png)
